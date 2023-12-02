@@ -3,9 +3,9 @@
  */
 {
   "$schema": "https://raw.githubusercontent.com/electron-userland/electron-builder/master/packages/app-builder-lib/scheme.json",
-  "appId": "YourAppID",
+  "appId": "com.nonathaj.electron-test",
   "asar": true,
-  "productName": "YourAppName",
+  "productName": "Electron Test 001",
   "directories": {
     "output": "release/${version}"
   },
